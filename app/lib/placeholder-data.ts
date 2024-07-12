@@ -1,43 +1,41 @@
-// This file contains placeholder data that you'll be replacing with real data in the Data Fetching chapter:
-// https://nextjs.org/learn/dashboard-app/fetching-data
 const users = [
   {
     id: '410544b2-4001-4271-9855-fec4b6a6442a',
-    name: 'User',
-    email: 'user@nextmail.com',
-    password: '123456',
+    name: 'Donnie',
+    email: 'donnie@tmnt.com',
+    password: '19computer$AreTubular84',
   },
 ];
 
 const customers = [
   {
     id: 'd6e15727-9fe1-4961-8c5b-ea44a9bd81aa',
-    name: 'Evil Rabbit',
-    email: 'evil@rabbit.com',
+    name: 'Mikey',
+    email: 'mikey@tmnt.com',
     image_url: '/customers/evil-rabbit.png',
   },
   {
     id: '3958dc9e-712f-4377-85e9-fec4b6a6442a',
-    name: 'Delba de Oliveira',
-    email: 'delba@oliveira.com',
+    name: 'Raph',
+    email: 'raph@tmnt.com',
     image_url: '/customers/delba-de-oliveira.png',
   },
   {
     id: '3958dc9e-742f-4377-85e9-fec4b6a6442a',
-    name: 'Lee Robinson',
-    email: 'lee@robinson.com',
+    name: 'Leo',
+    email: 'leo@robinson.com',
     image_url: '/customers/lee-robinson.png',
   },
   {
     id: '76d65c26-f784-44a2-ac19-586678f7c2f2',
-    name: 'Michael Novotny',
-    email: 'michael@novotny.com',
+    name: 'Shred Head',
+    email: 'shredder@technodrome.com',
     image_url: '/customers/michael-novotny.png',
   },
   {
     id: 'CC27C14A-0ACF-4F4A-A6C9-D45682C144B9',
-    name: 'Amy Burns',
-    email: 'amy@burns.com',
+    name: "April O'Neil",
+    email: 'april@newschannelsix.com',
     image_url: '/customers/amy-burns.png',
   },
   {
