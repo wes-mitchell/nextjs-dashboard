@@ -32,11 +32,12 @@ If you'd like to clone this example and run the app, follow the instructions bel
 
 4. [Click here to follow steps from Chapter 6](https://nextjs.org/learn/dashboard-app/setting-up-your-database) and follow the simple steps to set up your own database and account on Vercel.
 
-5. After you have seeded the database, you may now log in with the credentials below and navigate the app:
+5. After you have seeded the database, in your terminal window run `npm run dev` from the root of the directory. You may then log in and navigate the app with the credentials below:
     ```
     User: donnie@tmnt.com
     Password: 19computer$AreTubular84
     ```
+You may reference all seeded data in the _placeholder-data.ts_ file within the project. 
 
 **_Please Note the Customers Page was not included in the demo so it just reads Customers._**
 
